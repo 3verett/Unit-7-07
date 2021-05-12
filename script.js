@@ -3,7 +3,7 @@ let firstNum = 0
 let secondNum = 0
 let counter = 0
 let answer = 0
-negative = false
+let negative = false
 
 function calculate () {
   firstNum = document.getElementById('first').value
